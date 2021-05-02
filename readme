@@ -1,0 +1,7 @@
+Codes do the following:
+
+1. From LIDC-IDRI dataset: a) extract 40x40 lung nodule patches (16 slices per nodule), b) extract mean malignancy rating and create folders according to this
+2. Create a 3D CNN
+3. Apply self training algorithm to classify the stringly labelled nodules with the aid of the weakly-labelled dataset
+
+Codes work but need some cleaning. 
